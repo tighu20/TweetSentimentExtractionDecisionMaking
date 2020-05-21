@@ -16,3 +16,5 @@ Please Note: I have included fake tokens in the notebook instead of own for obvi
 ![alt text](UseCase1.PNG)
 ![alt text](UseCase2.PNG)
 
+The Bar Charts shows 250 users in the 1st case and around 370 users in the second case who could be targeted with realted advert content thus making the adverts for succesful.
+
