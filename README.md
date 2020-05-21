@@ -12,4 +12,5 @@ Disney+ not long ago and released a Star Wars spin off web series by the name of
 
 Please Note: I have included fake tokens in the notebook instead of own for obvious reasons. Please replace them with yours when working with this notebook.
 
-![alt text](https://github.com/tighu20/TweetSentimentExtractionDecisionMaking/blob/master/UseCase1.png?raw=true)
+
+![alt text](UseCase1.png)
